@@ -1,0 +1,2 @@
+D:\Program Files\Git\code\Project2\Debug\Project2.exe
+D:\Program Files\Git\code\Project2\Debug\Project2.pdb
